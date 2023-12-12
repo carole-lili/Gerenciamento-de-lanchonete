@@ -1,35 +1,16 @@
-# Usando Python para analisar dados relacionados a diárias UFRN
+# SISTEMA DE GERENCIAMENTO DE LANCHONETE
 
-1. Descrição:
+O Sistema de Gerenciamento de Lanchonete é um projeto com uma proposta baseada nas necessidades do mercado atual. Com a alta globalização e competitividade do mercado atual, o investimento em tecnologia se mostra como uma necessidade básica para evitar a obsolescência em relação à concorrência. O foco deste projeto recai especialmente sobre os estabelecimentos de pequeno porte, que muitas vezes enfrentam restrições financeiras para implementar tecnologias avançadas. Ao direcionar esforços para esse segmento, busca-se democratizar o acesso a ferramentas modernas de gestão, proporcionando oportunidades de crescimento e eficiência operacional.
 
-  Trabalho realizado na disciplina de programação estruturada e orientada a objetos que consistia na elaboração
-de um programa em Python para ler os arquivos de uma base de dados e extrair informações com uso de processamento
-(quantificação, agrupamento, cálculo, etc) de forma a responder 5 questões feitas de acordo com a base de dados
-escolhida, e então elaborar 5 gráficos de acordo com as respostas/questões definidas.
+Observando a realidade enfrentada por lanchonetes de pequeno porte, identificamos uma lacuna significativa no acesso a ferramentas modernas de gestão devido a restrições financeiras, motivando a criação deste projeto na necessidade premente de proporcionar uma solução que abrange todos os estabelecimentos de pequeno porte e que seja acessível. Além disso, nossa equipe também irá proporcionar uma formação junto com os funcionários com o intuito de instruir os mesmos a utilizar o sistema de forma eficiente e em prol do crescimento da empresa.
 
-2. Base de dados:
+O objetivo principal do Sistema é oferecer um gerenciamento intuitivo e eficiente para lanchonetes, otimizando não apenas o processo de vendas, mas também a administração de pedidos e a criação de comandas. A automação dessas funções visa aprimorar a experiência do cliente, reduzindo tempos de espera e minimizando erros associados a processos manuais.
 
-  A base escolhida apresenta uma relação das requisições de diárias para viagens da UFRN
-(Universidade Federal do Rio Grande do Norte), com 21 campos de informações podendo
-ser ou não obrigatórias, ou seja as informações obrigatórias estão disponíveis em todos os
-requirimentos, já as não obrigatórias podem ou não estarem disponíveis.
+# Tecnologias Utilizadas
 
-3. Ferramentas:
-
-   Para esse projeto foi utilizado a linguagem de programação python e as bibliotecas json e matplotlib
-
-3. Questões:
-
-1 - Quais as quantidades de requisições por ano no período de 2010 a
-2018?
-
-2 - Quais os 10 proponentes com maior quantidade de requisições de todo
-o conjunto de registros?
-
-3 - Qual a quantidade de requisições nacionais e internacionais de 2010 a
-2018?
-
-4 - Quais as médias dos valores recebidos das requisições por ano entre
-2010 a 2018?
-
-5 - Qual a porcentagem dos tipos de transportes utilizados nas viagens?
+CSS
+HTML
+JavaScript
+MySQL
+Python
+Django
